@@ -8,7 +8,7 @@ A simple web application to generate QR codes from user input. This project allo
 - **QR Code Generation**: Generates a QR code based on the input using the `qrserver` API.
 - **Responsive Design**: Adjusts layout and appearance for different screen sizes.
 
-## Demo
+## Live Link
 
 [QR Code Generator Demo](<https://lets-generate-qrcode.netlify.app/>)
 
@@ -86,8 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this description as per your project's needs and specific details.
 
-For any queries or feedback, please feel free to contact us:
+For any queries or feedback, please feel free to reach out:
 
 - **Email**: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
