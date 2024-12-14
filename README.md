@@ -24,7 +24,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/qr-code-generator.git
+    git clone https://github.com/amanxsyed/qr-code-generator.git
     ```
 
 2. Navigate to the project directory:
